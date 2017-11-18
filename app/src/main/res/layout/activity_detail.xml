@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     style="@style/AppTheme"
-    tools:context="com.phedev.app.travelista.DetailActivity">
+    tools:context="com.phedev.app.travelista.activity.DetailActivity">
 
     <ScrollView
         android:layout_width="match_parent"

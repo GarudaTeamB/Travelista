@@ -1,13 +1,13 @@
-package com.phedev.app.travelista.data;
+package com.phedev.app.travelista.db;
 
 import android.content.Context;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 
 /**
- * Created by phedev in 2017.
+ * @deprecated Class ini tidak lagi dibutuhkan karena telah menggunakan <code>Realm</code>. Lihat
+ * info lanjut tentang <a href="https://realm.io/docs/java/latest/">Realm Database</a>.
  */
-
 public class DatabaseManager {
 
     private static DatabaseManager sInstance;
